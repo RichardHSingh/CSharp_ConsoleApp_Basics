@@ -1,6 +1,6 @@
 # CSharp_ConsoleApp_Basics
 
-This project is revolved around the C# basics and the concept around programming principles.
+This project revolves around C# basics and the concept of programming principles.
 
 In this project we learned how to:  
 <br>• create shapes with characters with use of Console.WriteLine();
